@@ -58,8 +58,8 @@ _**
 - Now you are set to run the main program.
 
 ## Installation
-- git clone https://github.com/itsspyner/CRUD_operations.git
-- cd CRUD_operations
+- git clone https://github.com/MOHITJOSHI2/Resume-generator-with-GUI.git
+- cd Resume-generator-with-GUI
 - npm install
 
 ## Implementation
